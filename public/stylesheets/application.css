@@ -1,0 +1,14 @@
+.entry {
+	/*border: 1px solid blue;*/
+	padding: .5em;
+	margin-bottom: .5em;
+}
+
+form.button_to,
+form.button_to div {
+	display: inline;
+}
+
+.notice {
+	color: green;
+}
